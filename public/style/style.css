@@ -1,0 +1,171 @@
+.home .jumbotron{
+    background-image:url("../img/home.png");
+    margin:auto;background-size:cover;
+    height:490px
+}
+.home h2,.home p{
+    color:white
+}
+.isi{
+    background-color:ghostwhite;
+    min-height:300px
+}
+.isi h2,.isi p{
+    color:black;
+    text-align:center
+}
+.isi p{
+    font-size:18px
+}
+.listing-job>li{
+    background:transparent
+}
+.listing-job>li:hover{
+    background:#eee
+}
+.format .jumbotron{
+    background-image:url("../img/format.png");
+    margin:auto;
+    background-repeat:no-repeat;
+    background-position:left center;
+    background-size:cover;
+    height:390px
+}
+.format h1{
+    color:white;
+    font-size:52px;
+    margin-top:70px;
+    text-align:center
+}
+.format p{
+    font-size:22px;
+    color:white;
+    text-align:center
+}
+.kebijakan .jumbotron{
+    background-image:url("../img/kebijakan.png");
+    margin:auto;
+    background-repeat:no-repeat;
+    background-position:left center;
+    background-size:cover;
+    height:390px
+}
+.kebijakan h1{color:white;
+    font-size:52px;
+    margin-top:70px;
+    text-align:center
+}
+.kebijakan p{
+    font-size:22px;
+    color:white;
+    text-align:center
+}
+.tentang .jumbotron{
+    background-image:url("../img/tentang.png");
+    margin:auto;
+    background-repeat:no-repeat;
+    background-position:50% 50%;
+    background-size:cover;
+    height:390px
+}
+.tentang h1{
+    color:white;
+    font-size:52px;
+    margin-top:70px;
+    text-align:center
+}
+.tentang p{
+    font-size:22px;
+    color:white;
+    text-align:center
+}
+.download .jumbotron{
+    background-image:url("../img/download.png");
+    margin:auto;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:390px
+}
+.download h1{
+    color:white;
+    font-size:52px;
+    margin-top:70px;
+    text-align:center
+}
+.download p{
+    font-size:22px;
+    color:white;
+    text-align:center
+}
+.detail .jumbotron{
+    background-image:url("../img/detail.png");
+    background-repeat:repeat;
+    background-position-y:-200px;
+    background-position-x:-200px;
+    background-size:cover;
+    height:370px
+}
+.detail h3{
+    color:white;
+    margin-top:70px;
+    text-align:center
+}
+.detail i{
+    font-size:18px;
+    color:white
+}
+.detail p{
+    font-size:18px;
+    margin-top:20px
+}
+.pasang .jumbotron{
+    background-image:url("../img/download.png");
+    margin:auto;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:390px
+}
+.pasang h2{
+    color:white;
+    font-size:50px;
+    margin-top:70px;
+    text-align:center
+}
+.pasang p{
+    font-size:22px;
+    color:white;
+    text-align:center
+}
+footer{
+    background-image:url("../img/footer.jpg");
+    background-size:cover
+}
+footer h5{
+    color:white
+}
+footer a{
+    color:gold
+}
+footer p,footer a:hover{
+    color:white
+}
+
+@media only screen and (max-width: 767px) {
+    .styleLowongan > p {
+        text-align: left;
+        margin-top: 10px;
+        margin-left: 30px;
+    }
+
+    .tombolDetail {
+        margin-left: 10px;
+    }
+}
+  
+
+.styleLowongan {
+    margin-left: -30px;
+    color: royalblue;
+}
+
+
